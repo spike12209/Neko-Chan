@@ -1,6 +1,8 @@
 # Neko-Chan
 This is a multi-purpose discord bot written in python 3.5 using discord.py.
 
+Coded by: [Tsumiki-Chan](https://github.com/Tsumiki-Chan) and [unkn0wncode](https://github.com/unkn0wncode)
+
 ## Features
 These are some of the features that this bot has got:
  - Access Level System
