@@ -1,0 +1,9 @@
+aiodns==1.0.1
+aiofiles==0.3.0
+aiohttp==0.21.6
+aiomysql==0.0.7
+discord.py>=0.10.0
+beautifulsoup4==4.4.1
+PyGithub==1.26.0
+psutil>=4.3.0
+youtube-dl>=2016.9.4.1
